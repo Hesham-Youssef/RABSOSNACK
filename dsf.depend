@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1657270708 source:c:\users\hesham youssef\desktop\pro\dsf\main.cpp
+	<iostream>
+	<Windows.h>
+	<conio.h>
+	<unistd.h>
+	<time.h>
+	<fstream>
+
